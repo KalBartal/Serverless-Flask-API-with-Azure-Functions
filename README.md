@@ -1,5 +1,10 @@
 # Serverless Flask API with Azure Functions
 
+[ ![Serverless Flask API with Azure Functions](./image.png)](https://kalbartal.net/serverless-flask-api-with-azure-functions/)
+
+I have a step by step walkthrough for this project on my [my blog](https://kalbartal.net/serverless-flask-api-with-azure-functions/).
+
+
 This is a sample Flask API deployed as an Azure Function. The API provides a simple greeting endpoint that accepts a name in the request body and responds with a personalized greeting message.
 
 ## Requirements
