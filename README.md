@@ -19,8 +19,8 @@ This is a sample Flask API deployed as an Azure Function. The API provides a sim
 5. Start the development server using `func start`.
 
 ## Deploying to Azure Functions
-1. Create a new Azure Function App in the Azure portal.
-2. Deploy the Flask API by following the steps in the [official Azure Functions documentation](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python).
+1. Create a new Azure Function App in the Azure portal
+2. Deploy the Flask API by following the steps in the [official Azure Functions documentation](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python)
 
 ## API documentation
 The Flask API provides the following endpoint:
